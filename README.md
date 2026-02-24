@@ -4,6 +4,11 @@ Software engineer based in Poland. Creator of [Doorkeeper](https://github.com/do
 
 I work at [Clipboard Health](https://www.clipboardhealth.com/) and previously built things at Xkit, Retail Zipline, AirHelp, Base CRM, and Applicake.
 
+## Support
+
+[![GitHub Sponsors](https://img.shields.io/badge/-GitHub_Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/felipeelias)
+[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/c/FelipePhilipp)
+
 ## What I work with
 
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
@@ -34,11 +39,6 @@ I work at [Clipboard Health](https://www.clipboardhealth.com/) and previously bu
 
 More on [felipeelias.github.io](https://felipeelias.github.io)
 
-
-## Support
-
-[![GitHub Sponsors](https://img.shields.io/badge/-GitHub_Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/felipeelias)
-[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/c/FelipePhilipp)
 
 ## Find me
 
