@@ -35,6 +35,11 @@ I work at [Clipboard Health](https://www.clipboardhealth.com/) and previously bu
 More on [felipeelias.github.io](https://felipeelias.github.io)
 
 
+## Support
+
+[![GitHub Sponsors](https://img.shields.io/badge/-GitHub_Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/felipeelias)
+[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/c/FelipePhilipp)
+
 ## Find me
 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://felipeelias.github.io)
