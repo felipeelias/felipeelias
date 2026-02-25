@@ -30,11 +30,11 @@ I work at [Clipboard Health](https://www.clipboardhealth.com/) and previously bu
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perfect Claude Code Notifications Setup with Tailscale and ntfy](https://felipeelias.github.io/2026/02/25/claude-code-notifications.html)
 - [Building Houses and Skyscrapers](https://felipeelias.github.io/2026/02/17/building-houses-and-skyscrapers.html)
 - [Using Elixir Telemetry and Tesla](https://felipeelias.github.io/elixir/2022/08/03/elixir-telemetry-and-tesla.html)
 - [Don&#39;t lose that Sidekiq job &lpar;and your job&rpar;](https://felipeelias.github.io/ruby/2020/04/17/dont-lose-that-sidekiq-job.html)
 - [A new scheduler for Eventboss](https://felipeelias.github.io/ruby/2019/11/04/scheduler-for-eventboss.html)
-- [On being a Senior Software Engineer](https://felipeelias.github.io/career/2019/10/11/on-being-senior-engineer.html)
 <!-- BLOG-POST-LIST:END -->
 
 More on [felipeelias.github.io](https://felipeelias.github.io)
