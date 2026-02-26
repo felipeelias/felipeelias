@@ -17,13 +17,13 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 
 ## Projects
 
-- **[Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)** — OAuth 2 provider for Ruby on Rails / Grape (5.5k+ stars)
-- **[Elixir Toolbox](https://elixir-toolbox.dev)** — Community catalog of Elixir packages
-- **[Claude Notifier](https://github.com/felipeelias/claude-notifier)** — Notification dispatcher for Claude Code hooks
-- **[Eventboss](https://github.com/AirHelp/eventboss)** — Pub/Sub built on AWS SNS/SQS
-- **[Resubject](https://github.com/felipeelias/resubject)** — Object decoration for Ruby
-- **[Local AI](https://github.com/felipeelias/local-ai)** — Run a full AI platform locally (Chat, Image gen, Cursor/VSCode)
-- **[Instrumentation](https://github.com/felipeelias/instrumentation)** — Monitor process stats over time
+- **[Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)** - OAuth 2 provider for Ruby on Rails / Grape (5.5k+ stars)
+- **[Elixir Toolbox](https://elixir-toolbox.dev)** - Community catalog of Elixir packages
+- **[Claude Notifier](https://github.com/felipeelias/claude-notifier)** - Notification dispatcher for Claude Code hooks
+- **[Eventboss](https://github.com/AirHelp/eventboss)** - Pub/Sub built on AWS SNS/SQS
+- **[Resubject](https://github.com/felipeelias/resubject)** - Object decoration for Ruby
+- **[Local AI](https://github.com/felipeelias/local-ai)** - Run a full AI platform locally (Chat, Image gen, Cursor/VSCode)
+- **[Instrumentation](https://github.com/felipeelias/instrumentation)** - Monitor process stats over time
 
 ## Blog posts
 
