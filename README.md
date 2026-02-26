@@ -1,5 +1,9 @@
 # Hey, I'm Felipe
 
+🇧🇷 → 🇵🇱 | 💻 Staff Software Engineer | 🔓 Open Source
+
+> Into DevX, platform engineering, and dev tooling
+
 You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper), the OAuth 2 provider for Rails/Grape, or from [Elixir Toolbox](https://elixir-toolbox.dev). I'm a software engineer based in Poland, currently at [Clipboard Health](https://www.clipboardhealth.com/).
 
 ## Support
@@ -14,6 +18,10 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Projects
 
@@ -37,10 +45,15 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 
 More on [felipeelias.github.io](https://felipeelias.github.io)
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/felipeelias)
 
 ## Find me
 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://felipeelias.github.io)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/felipeelias)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/yerba.bsky.social)
 [![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/felipeelias)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@felipeelias)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeelias/)
