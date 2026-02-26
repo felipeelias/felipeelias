@@ -1,8 +1,6 @@
 # Hey, I'm Felipe
 
-Software engineer based in Poland. Creator of [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) — an OAuth 2 provider for Ruby on Rails / Grape with 5.5k+ stars — and [Elixir Toolbox](https://elixir-toolbox.dev), a community catalog of Elixir packages.
-
-I work at [Clipboard Health](https://www.clipboardhealth.com/) and previously built things at Xkit, Retail Zipline, AirHelp, Base CRM, and Applicake.
+You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper), the OAuth 2 provider for Rails/Grape, or from [Elixir Toolbox](https://elixir-toolbox.dev). I'm a software engineer based in Poland, currently at [Clipboard Health](https://www.clipboardhealth.com/).
 
 ## Support
 
