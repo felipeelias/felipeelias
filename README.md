@@ -42,5 +42,6 @@ More on [felipeelias.github.io](https://felipeelias.github.io)
 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://felipeelias.github.io)
 [![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/felipeelias)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@felipeelias)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeelias/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/felipeelias)
