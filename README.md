@@ -36,11 +36,11 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elixir Toolbox - Major Update](https://felipeelias.github.io/2026/02/26/elixir-toolbox-major-update.html)
 - [Perfect Claude Code Notifications Setup with Tailscale and ntfy](https://felipeelias.github.io/2026/02/25/claude-code-notifications.html)
 - [Building Houses and Skyscrapers](https://felipeelias.github.io/2026/02/17/building-houses-and-skyscrapers.html)
 - [Using Elixir Telemetry and Tesla](https://felipeelias.github.io/elixir/2022/08/03/elixir-telemetry-and-tesla.html)
 - [Don&#39;t lose that Sidekiq job &lpar;and your job&rpar;](https://felipeelias.github.io/ruby/2020/04/17/dont-lose-that-sidekiq-job.html)
-- [A new scheduler for Eventboss](https://felipeelias.github.io/ruby/2019/11/04/scheduler-for-eventboss.html)
 <!-- BLOG-POST-LIST:END -->
 
 More on [felipeelias.github.io](https://felipeelias.github.io)
