@@ -27,8 +27,9 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 
 - **[Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)** - OAuth 2 provider for Ruby on Rails / Grape (5.5k+ stars)
 - **[Elixir Toolbox](https://elixir-toolbox.dev)** - Community catalog of Elixir packages
-- **[Hook Lab](https://github.com/felipeelias/hook-lab)** - Web dashboard for watching Claude Code hook events in real time
+- **[Claude Statusline](https://github.com/felipeelias/claude-statusline)** - [Starship](https://starship.rs)-inspired status line for Claude Code
 - **[Claude Notifier](https://github.com/felipeelias/claude-notifier)** - Notification dispatcher for Claude Code hooks
+- **[Hook Lab](https://github.com/felipeelias/hook-lab)** - Web dashboard for watching Claude Code hook events in real time
 - **[Eventboss](https://github.com/AirHelp/eventboss)** - Pub/Sub built on AWS SNS/SQS
 - **[Resubject](https://github.com/felipeelias/resubject)** - Object decoration for Ruby
 - **[Local AI](https://github.com/felipeelias/local-ai)** - Run a full AI platform locally (Chat, Image gen, Cursor/VSCode)
