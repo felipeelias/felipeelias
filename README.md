@@ -35,8 +35,6 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 - **[Resubject](https://github.com/felipeelias/resubject)** - Object decoration for Ruby
 - **[Terraform GitHub Repo Defaults](https://github.com/felipeelias/terraform-github-repo-defaults)** - Terraform module for GitHub repository security settings and defaults
 - **[Homebrew Tap](https://github.com/felipeelias/homebrew-tap)** - Homebrew tap for felipeelias projects
-- **[Local AI](https://github.com/felipeelias/local-ai)** - Run a full AI platform locally (Chat, Image gen, Cursor/VSCode)
-- **[Instrumentation](https://github.com/felipeelias/instrumentation)** - Monitor process stats over time
 
 ## Blog posts
 
@@ -47,6 +45,13 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 - [Perfect Claude Code Notifications Setup with Tailscale and ntfy](https://felipeelias.github.io/2026/02/25/claude-code-notifications.html)
 - [Building Houses and Skyscrapers](https://felipeelias.github.io/2026/02/17/building-houses-and-skyscrapers.html)
 <!-- BLOG-POST-LIST:END -->
+
+## Legacy Projects
+
+- **[Local AI](https://github.com/felipeelias/local-ai)** - Run a full AI platform locally (Chat, Image gen, Cursor/VSCode)
+- **[Comfy UI](https://github.com/felipeelias/comfy-ui)** - ComfyUI and ComfyUI-Manager Dockerfile and image
+- **[Instrumentation](https://github.com/felipeelias/instrumentation)** - Monitor process stats over time
+- **[game.js](https://github.com/felipeelias/game.js)** - A JavaScript framework for HTML games
 
 More on [felipeelias.github.io](https://felipeelias.github.io)
 
