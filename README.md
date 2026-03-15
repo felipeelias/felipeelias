@@ -30,8 +30,11 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 - **[Claude Statusline](https://github.com/felipeelias/claude-statusline)** - [Starship](https://starship.rs)-inspired status line for Claude Code
 - **[Claude Notifier](https://github.com/felipeelias/claude-notifier)** - Notification dispatcher for Claude Code hooks
 - **[Hook Lab](https://github.com/felipeelias/hook-lab)** - Web dashboard for watching Claude Code hook events in real time
+- **[ERB View](https://github.com/felipeelias/erb-view)** - Class-based ERB views for Ruby
 - **[Eventboss](https://github.com/AirHelp/eventboss)** - Pub/Sub built on AWS SNS/SQS
 - **[Resubject](https://github.com/felipeelias/resubject)** - Object decoration for Ruby
+- **[Terraform GitHub Repo Defaults](https://github.com/felipeelias/terraform-github-repo-defaults)** - Terraform module for GitHub repository security settings and defaults
+- **[Homebrew Tap](https://github.com/felipeelias/homebrew-tap)** - Homebrew tap for felipeelias projects
 - **[Local AI](https://github.com/felipeelias/local-ai)** - Run a full AI platform locally (Chat, Image gen, Cursor/VSCode)
 - **[Instrumentation](https://github.com/felipeelias/instrumentation)** - Monitor process stats over time
 
