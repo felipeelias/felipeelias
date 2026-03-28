@@ -18,7 +18,7 @@ jobs:
           feed_list: "https://felipeelias.github.io/feed.xml"
           max_post_count: 5
           skip_commit: "true"
-      - uses: felipeelias/actions/create-pull-request@9e198c3a2cdd6500b49ae9f0504dee527732411b # main
+      - uses: felipeelias/actions/create-pull-request@47a6203f83ae91056fd5642d5309732a30138378 # main
         with:
           branch: blog-post-update
           title: "chore: update blog posts in README"
