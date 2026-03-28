@@ -33,9 +33,9 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 - **[ERB View](https://github.com/felipeelias/erb-view)** - Class-based ERB views for Ruby
 - **[Eventboss](https://github.com/AirHelp/eventboss)** - Pub/Sub built on AWS SNS/SQS
 - **[Resubject](https://github.com/felipeelias/resubject)** - Object decoration for Ruby
-- **[Actions](https://github.com/felipeelias/actions)** - Reusable GitHub Actions for felipeelias repositories
+- **[Actions](https://github.com/felipeelias/actions)** - Reusable GitHub Actions
 - **[Terraform GitHub Repo Defaults](https://github.com/felipeelias/terraform-github-repo-defaults)** - Terraform module for GitHub repository security settings and defaults
-- **[Homebrew Tap](https://github.com/felipeelias/homebrew-tap)** - Homebrew tap for felipeelias projects
+- **[Homebrew Tap](https://github.com/felipeelias/homebrew-tap)** - Homebrew tap for my projects
 
 ## Blog posts
 
