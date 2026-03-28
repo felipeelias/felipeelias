@@ -18,7 +18,7 @@ jobs:
           feed_list: "https://felipeelias.github.io/feed.xml"
           max_post_count: 5
           skip_commit: "true"
-      - uses: felipeelias/actions/create-pull-request@main
+      - uses: felipeelias/actions/create-pull-request@50008f2e19005cbbc60e31fb35249aa8ff5782aa # main
         env:
           GH_TOKEN: ${{ github.token }}
         with:
