@@ -18,9 +18,14 @@ jobs:
           feed_list: "https://felipeelias.github.io/feed.xml"
           max_post_count: 5
           skip_commit: "true"
-      - uses: felipeelias/actions/create-pull-request@47a6203f83ae91056fd5642d5309732a30138378 # main
-        with:
-          branch: blog-post-update
-          title: "chore: update blog posts in README"
-          body: "Automated update of blog posts from RSS feed."
-          add: README.md
+      - name: Create pull request (inline test)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B blog-post-update
+          git add README.md
+          git commit -m "chore: update blog posts in README"
+          git push --force origin blog-post-update
+          gh pr create --base main --head blog-post-update --title "chore: update blog posts in README" --body "test"
