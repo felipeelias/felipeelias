@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update-readme:
@@ -16,3 +17,12 @@ jobs:
         with:
           feed_list: "https://felipeelias.github.io/feed.xml"
           max_post_count: 5
+          skip_commit: "true"
+      - uses: felipeelias/actions/create-pull-request@main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        with:
+          branch: blog-post-update
+          title: "chore: update blog posts in README"
+          body: "Automated update of blog posts from RSS feed."
+          add: README.md
