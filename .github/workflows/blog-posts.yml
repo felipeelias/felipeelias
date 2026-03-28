@@ -12,7 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          token: ${{ secrets.BLOG_POST_TOKEN }}
       - uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # v1.9.4
         with:
+          gh_token: ${{ secrets.BLOG_POST_TOKEN }}
           feed_list: "https://felipeelias.github.io/feed.xml"
           max_post_count: 5
