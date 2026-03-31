@@ -25,6 +25,8 @@ You may know me from [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper),
 
 ## Projects
 
+[![committers.top badge](https://user-badge.committers.top/poland/felipeelias.svg)](https://committers.top/poland)
+
 - **[Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)** - OAuth 2 provider for Ruby on Rails / Grape (5.5k+ stars)
 - **[Elixir Toolbox](https://elixir-toolbox.dev)** - Community catalog of Elixir packages
 - **[Claude Statusline](https://github.com/felipeelias/claude-statusline)** - [Starship](https://starship.rs)-inspired status line for Claude Code
